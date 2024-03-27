@@ -1,4 +1,3 @@
-
 {
   "listeEleve":[
       {"id_etudiant": "00", "nom": "aucun etudiant selectionne", "session": "1", "cours": []},
