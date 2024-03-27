@@ -7,6 +7,6 @@
       {"id_etudiant": "04", "nom": "Jean", "session": "3", "cours": ["BDD2", "Web3", "Prog1"]},
       {"id_etudiant": "05", "nom": "Pierre", "session": "2", "cours": ["BDD1", "Web2", "PAM1"]},
       {"id_etudiant": "06", "nom": "Simon", "session": "4", "cours": ["BDD3", "Web3", "PAM2"]},
-      {"id_etudiant": "07", "nom": "Jacques", "session": "1", "cours": ["Prog1", "Web1"]},
+      {"id_etudiant": "07", "nom": "Jacques", "session": "1", "cours": ["Prog1", "Web1"]}
   ]
 }
